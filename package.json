@@ -1,0 +1,28 @@
+{
+  "name": "aws_textract_example",
+  "version": "1.0.0",
+  "description": "Dummy prototype to use AWS Textract service with queries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ad-ejami/aws_textract_example.git"
+  },
+  "keywords": [
+    "AWS",
+    "Textract"
+  ],
+  "author": "Eduardo Jami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ad-ejami/aws_textract_example/issues"
+  },
+  "homepage": "https://github.com/ad-ejami/aws_textract_example#readme",
+  "dependencies": {
+    "@aws-sdk/client-textract": "^3.473.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
