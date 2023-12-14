@@ -130,4 +130,7 @@ dist
 .pnp.*
 
 # environment variables file
-environment.env
+environment.js
+
+img/
+jsonDir/
